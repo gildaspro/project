@@ -1,0 +1,54 @@
+.main {
+	background:orange;
+	 width: 90%;
+}
+.page-header{
+	background:grey;
+	width: 100%;
+	float: right; 
+}
+
+aside{
+	background: red;
+	float: left;
+	width: 10%;
+
+
+
+}
+aside div{
+	padding: 50px;
+	border-bottom: 2px solid grey;
+	text-decoration-style: none;
+	text-transform: uppercase;
+}
+
+aside a{
+	text-decoration-style: none;
+	color :white;
+
+}
+.home-content{
+	width: 100%;
+	background:  yellow;
+
+}
+.home-trending{
+	display: inline-block;
+	background: blue;
+	width: 40%;
+	
+
+}
+.home-article{
+	display: inline-block;
+	background:green;
+	width:  60%;
+	
+
+}
+
+
+
+
+
